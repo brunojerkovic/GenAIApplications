@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "our_text",
+        "words_count"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n{our_text}\n\nCan you create a post for a tweet in {words_count} words for the above?\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

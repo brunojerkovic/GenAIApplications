@@ -1,0 +1,81 @@
+# .idea directory (global)
+.idea/
+
+# chat_models
+chat_models/.idea
+chat_models/.env
+
+# chat_summarizer
+chat_summarizer/.idea
+chat_summarizer/.env
+chat_summarizer/.env-sample
+
+# code_analyst
+code_analyst/.idea
+code_analyst/.env
+code_analyst/.env-sample
+
+# data_reader
+data_reader/.idea
+data_reader/.env
+
+# email_generator
+email_generator/.idea
+email_generator/.env
+email_generator/models/
+email_generator/.env-sample
+
+# email_sender
+email_sender/.idea
+email_sender/.env
+email_sender/.env-sample
+
+# language_role_player
+language_role_player/.idea
+language_role_player/.env
+language_role_player/.env-sample
+
+# marketing_campaign
+marketing_campaign/.idea
+marketing_campaign/.env
+marketing_campaign/.env-sample
+
+# quiz
+quiz/.idea
+quiz/.env
+quiz/.env-sample
+
+# rag_with_knowledge_graph
+rag_with_knowledge_graph/.idea
+rag_with_knowledge_graph/.env
+rag_with_knowledge_graph/.env-sample
+
+# resume_writer
+resume_writer/.idea
+resume_writer/.env
+resume_writer/.env-sample
+
+# simple_translator_app
+simple_translator_app/.idea
+simple_translator_app/.env
+simple_translator_app/.env-sample
+
+# storyteller_with_media
+storyteller_with_media/.idea
+storyteller_with_media/.env
+storyteller_with_media/.env-sample
+
+# text_embedding_app
+text_embedding_app/.idea
+text_embedding_app/.env
+text_embedding_app/.env-sample
+
+# text_to_SQL_query
+text_to_SQL_query/.idea
+text_to_SQL_query/.env
+text_to_SQL_query/.env-sample
+
+# youtube_video_summarizer
+youtube_video_summarizer/.idea
+youtube_video_summarizer/.env
+youtube_video_summarizer/.env-sample

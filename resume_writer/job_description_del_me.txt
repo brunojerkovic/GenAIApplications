@@ -1,0 +1,74 @@
+DevOps Engineer
+IT
+Hybride
+Utrecht
+Nederland
+36 uur
+Fulltime
+Solliciteren
+You will get the opportunity to work in beating heart of data within the Rabobank. You will work together with people who have an insatiable curiosity in technology, data, and self-development. You will heavily invest in your career. You will make memories. 
+
+You can make a difference 
+
+Within the Tribe Global Data & Analytics Platform you will work in the centre of the data driven enterprise. There are about 40 squads divided over multiple areas. You will work as a DevOps Engineer in the squad that is responsible for the Data Quality solution, a mature team both in terms of expertise and in collaboration. On a day to day basis, you support your squad with quality code. In addition, you are expected to have a growth mindset (persistence, adaptability and a willingness to keep learning) and be a team player, pairing up with your colleagues to learn and brainstorm ideas.
+
+You will work in a scaled agile setting. Different squads work together in order to provide Data Platform services to end-user teams. This includes supporting roles such as Data Engineers, Data Stewards, Data Analysts and Data Citizens. We contribute to the collective goal of maximizing the value of our data and empowering end users. The solutions created need to be usable, resilient, scalable and secure. This requires you to have regular interaction with our users to understand their needs and keep looking for ways to deliver a positive user experience. You will translate this into meaningful features in a broad tech stack.
+
+Examples
+
+Develop solutions in various tools and frameworks within the Microsoft Azure cloud computing platform, (including Data Factory, Machine Learning studio), Databricks, Power Automate and Power BI.
+Develop and improve CI/CD processes with Azure DevOps
+Identify the next steps to improve our solution and team up with colleagues to refine the work on our backlog.
+Take turns to be the operator of the sprint, monitoring our solution and addressing any questions and issues from our users.
+Provide meaningful input to help our team develop even more autonomy and maturity.
+
+Learning from each other
+Development is our top priority. Because the best way to learn is by doing, through mistakes and successes. At Rabobank we offer you the right balance between freedom and supervision. To develop talents you never thought you possessed. To specialize in a professional field or explore the things you're good at and enjoy doing. You'll work with experienced colleagues and have lots of contact with young professionals.
+
+“Both this project and my team members have played a pivotal role in my growth. As a junior, I received invaluable seniority and general guidance from my teammates. The freedom to explore innovative solutions for our product—always followed by an opportunity to prove their worth—has fueled my creativity and critical thinking. However, what truly facilitated my growth was the culture of openness, honesty, and accountability. Thanks to these values, I’ve also forged strong interpersonal relationships.”
+
+Bartek Kotlicki, DevOps Engineer.
+
+Talking of Rabobank: We are a Dutch bank that operates in 38 countries for over 9,500,000 customers. Together with these customers, our members and partners we stand side by side to create a world in which everyone has access to enough healthy food. In the Netherlands we work to create a country in which people are happy with how they live, work and do business.
+
+You and your talent
+
+a bachelor or master degree, or an equivalent working / thinking level
+affinity with software development, and proficient in Python and SQL to deliver readable code with proper documentation
+experience with CI/CD Azure DevOps
+experience with data quality is a plus
+excellent proficiency in English
+feedback makes you stronger
+learns from mistakes
+adaptive to changing situations
+focus on the solution
+What do we offer?
+We would love to help you achieve this by focusing firmly on your growth, development, and investing in an environment where you keep learning every day. We give you the space to innovate and initiate. In this way, we offer you numerous opportunities to grow and help you exceed your expectations, to do the right thing exceptionally well, and to therefore grow as a professional. In addition, with us (on the basis of a 36-or 40 hour working week), you can also expect:
+
+Based on your experience: up to € 75.000 gross per year (scale 8)
+a desk, monitor and chair to set up your home working space and a monthly home working allowance of up to € 40-
+a personal development budget of € 1,400-
+a combination of working from home and at the office
+100% reimbursement of commuting costs if you travel by public transport
+A pension scheme to which you contribute 3.5%
+172.8 hours holiday per year including 1 Diversity Day per year
+This is a selection of the terms of employment for a DevOps Engineer based on a 36-hour working week. You can find all terms of employment on rabobank.jobs/en/conditions-of-employment.
+
+You and the job application process
+
+Reply to the vacancy for DevOps Engineer at Rabobank.
+
+Any questions about working at Rabobank and the process? Oscar van Dijk, IT Recruiter, oscar.van.dijk@rabobank.nl
+We will hold the interviews through a video call.
+You can find answers to the most frequently asked questions on https://rabobank.jobs/en/faq/ .
+A security check is part of the process.
+We respect your privacy.
+Growing a better world together
+You are already aware that Rabobank is a financial services provider for millions of customers in 40 countries. But did you know that we aim to contribute to real change with our “Growing a better world together” mission?  We do so in countless ways, such as:
+
+A third of all the food we purchase is thrown away. Together with Nature & Environment, we’re working to increase awareness among consumers of how to reduce food waste.
+As part of a project with Humanitas, we are helping people who are experiencing financial difficulties to get their household finances in order.
+Together with Vluchtelingenwerk Nederland (the Dutch Council for Refugees), we are helping 1,500 refugees find a suitable job.
+Interested? Please contact us.
+
+#LI-OV1
