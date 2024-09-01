@@ -50,10 +50,11 @@ rag_with_knowledge_graph/.idea
 rag_with_knowledge_graph/.env
 rag_with_knowledge_graph/.env-sample
 
-# resume_writer
-resume_writer/.idea
-resume_writer/.env
-resume_writer/.env-sample
+# document_helper
+document_helper/.idea
+document_helper/.env
+document_helper/.env-sample
+document_helper/my_docs
 
 # simple_translator_app
 simple_translator_app/.idea
