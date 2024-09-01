@@ -37,3 +37,9 @@ For all of those who want to know more about Dutch language, this is an LLM you 
 ### 9. Simple Translator App
 Simply use this LLM to perform LLM-powered translations between languages.
 ![Simple Translator App](demo_videos/simple_translator_app.gif)
+
+### 10. Code Analyst
+
+Writing code and want to get a simple code review before you make that long-awaited push? Try this out:
+
+![Code Analyst](demo_videos/code_analyst.gif)
